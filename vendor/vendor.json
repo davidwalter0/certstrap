@@ -1,0 +1,23 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "/gvMOKRiePBd5mP9rFnOrha9Vdk=",
+			"comment": "1.2.0-62-gbf4a526",
+			"path": "github.com/codegangsta/cli",
+			"revision": "bf4a526f48af7badd25d2cb02d587e1b01be3b50"
+		},
+		{
+			"checksumSHA1": "80nVga2uz3iNqzG2fO8cmYLnnpI=",
+			"path": "github.com/howeyc/gopass",
+			"revision": "2c70fa70727c953c51695f800f25d6b44abb368e"
+		},
+		{
+			"checksumSHA1": "bA2gANkJBx2Br/p5GKYdhyGo3Pg=",
+			"path": "golang.org/x/crypto/ssh/terminal",
+			"revision": "bfc286917c5fcb7420d7e3092b50bbfd31b38a98"
+		}
+	],
+	"rootPath": "github.com/square/certstrap"
+}
